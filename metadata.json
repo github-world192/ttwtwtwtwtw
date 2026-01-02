@@ -1,0 +1,7 @@
+{
+  "name": "TaskFlow - AI Task Manager",
+  "description": "A high-performance task management application featuring smart scheduling, AI-powered task breakdown, and a sleek modern mobile interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
